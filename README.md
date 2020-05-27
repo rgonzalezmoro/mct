@@ -1,2 +1,4 @@
-# mtc
-Morinsky Crypto Tools
+# MCT
+
+MCT Morinsky Crypto Tools son funciones criptograficas basadas en 
+Py Cryptodome
